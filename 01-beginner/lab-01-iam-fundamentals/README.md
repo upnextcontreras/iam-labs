@@ -1,21 +1,22 @@
 # Lab 01: IAM Fundamentals
 
-**Platform:** Okta + Entra ID  
-**Time:** 25-30 min  
+**Platform:** Okta + Entra ID
+**Time:** 25-30 min
 **Status:** Complete
 
-Create users, assign groups, reset passwords, and disable accounts. Learn authentication vs authorization basics.
-
 ## Objective
-What this lab sets up and why it matters in a real company.
+Practice the core tasks an IAM engineer handles every day in both Okta and Microsoft Entra ID.
 
-## Steps
-1. 
-2. 
-3. 
+## What I Did
+- Created a test user in Okta and Entra ID
+- Created an `Engineering-Team` group and assigned the user
+- Reset the user's password
+- Disabled the account
+- Validated the changes with sign-in logs
 
-## Result
-What worked and how I verified it.
+Full walkthrough with screenshots: [STEPS.md](STEPS.md)
 
 ## Lessons Learned
-- 
+- Groups make access easier to manage: change the group, not each user.
+- Disable accounts instead of deleting them, so audit logs are kept.
+- Always verify identity before resetting a password.
