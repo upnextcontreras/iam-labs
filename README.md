@@ -21,8 +21,8 @@ Hands-on Identity and Access Management labs in **Okta** and **Microsoft Entra I
 ### Beginner
 | # | Lab | Platform | Status |
 |---|---|---|---|
-| 01 | [_Name_](01-beginner/lab-01/) | Okta + Entra ID | Planned |
-| 02 | [_Name_](01-beginner/lab-02/) | Okta + Entra ID | Planned |
+| 01 | [_Name_](01-beginner/lab-01/) | Okta + Entra ID | In Progress |
+| 02 | [_Name_](01-beginner/lab-02/) | Okta + Entra ID | In Progress |
 
 ### Intermediate
 | # | Lab | Platform | Status |
