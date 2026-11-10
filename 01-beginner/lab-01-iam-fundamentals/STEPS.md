@@ -10,6 +10,9 @@
 ### 1. Create a User
 Directory → People → **Add Person** → enter user details → **Activate now** → **Save**
 
+<img width="359" height="418" alt="creatinguserokta" src="https://github.com/user-attachments/assets/a55cd07b-fa31-4039-9a7c-364dec21148b" />
+<img width="771" height="343" alt="image" src="https://github.com/user-attachments/assets/56aec68e-9869-42ba-bac6-f021581c7fde" />
+
 ![Okta - create user](screenshots/01-okta-create-user.png)
 
 ### 2. Create a Group and Assign the User
