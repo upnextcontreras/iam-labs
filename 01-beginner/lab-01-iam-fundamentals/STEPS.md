@@ -25,8 +25,27 @@ Directory → People → **Add Person** → enter user details → **Activate no
 ### 2. Create a Group and Assign the User
 Directory → Groups → **Add Group** → name it `Engineering-Team` → **Save** → **Assign People**
 
-![Okta - group](screenshots/03-okta-group.png)
+<p align="center">
+  <img width="500" alt="Creating group in Okta" src="LINK-creatingroupsokta" />
+  <br><em>Creating the Engineering-Team group</em>
+</p>
 
+<p align="center">
+  <img width="500" alt="Group created in Okta" src="LINK-groupcreatedokta" />
+  <br><em>Engineering-Team group created</em>
+</p>
+
+<p align="center">
+  <img width="500" alt="Assigning user to group" src="LINK-assigning_to_group" />
+  <br><em>Assigning Test User to the group</em>
+</p>
+
+<p align="center">
+  <img width="500" alt="User assigned to group" src="LINK-assignedtogroup2" />
+  <br><em>Test User is now a member of Engineering-Team</em>
+</p>
+
+---
 ### 3. Reset a Password
 Directory → People → select user → More Actions → **Reset Password**
 
