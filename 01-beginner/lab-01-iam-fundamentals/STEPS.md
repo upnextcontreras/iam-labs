@@ -26,26 +26,27 @@ Directory → People → **Add Person** → enter user details → **Activate no
 Directory → Groups → **Add Group** → name it `Engineering-Team` → **Save** → **Assign People**
 
 <p align="center">
-  <img width="500" alt="Creating group in Okta" src="LINK-creatingroupsokta" />
+  <img width="500" alt="Creating group in Okta" src="https://github.com/user-attachments/assets/6f29f6b5-e565-445f-9e9a-e0ef1f7a6e6b" />
   <br><em>Creating the Engineering-Team group</em>
 </p>
 
 <p align="center">
-  <img width="500" alt="Group created in Okta" src="LINK-groupcreatedokta" />
+  <img width="500" alt="Group created in Okta" src="https://github.com/user-attachments/assets/1eb8413e-b05d-499f-b793-49224ee1f65a" />
   <br><em>Engineering-Team group created</em>
 </p>
 
 <p align="center">
-  <img width="500" alt="Assigning user to group" src="LINK-assigning_to_group" />
+  <img width="500" alt="Assigning user to group" src="https://github.com/user-attachments/assets/3c58bd26-9f28-42b0-aee6-6125c68a6dfc" />
   <br><em>Assigning Test User to the group</em>
 </p>
 
 <p align="center">
-  <img width="500" alt="User assigned to group" src="LINK-assignedtogroup2" />
+  <img width="500" alt="User assigned to group" src="https://github.com/user-attachments/assets/fd1d3aa7-11f7-4299-a272-02c985ebf48a" />
   <br><em>Test User is now a member of Engineering-Team</em>
 </p>
 
 ---
+
 ### 3. Reset a Password
 Directory → People → select user → More Actions → **Reset Password**
 
