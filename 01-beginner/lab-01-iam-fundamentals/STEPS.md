@@ -48,9 +48,14 @@ Directory → Groups → **Add Group** → name it `Engineering-Team` → **Save
 ---
 
 ### 3. Reset a Password
-Directory → People → select user → More Actions → **Reset Password**
+Directory → People → select user → **Reset or Remove password**
 
-![Okta - password reset](screenshots/05-okta-password-reset.png)
+| Admin View | Test User View |
+|:---:|:---:|
+| <img width="400" alt="Admin reset password" src="https://github.com/user-attachments/assets/0b60bf87-7e7a-4f9a-8806-7b86fd418511" /> | <img width="400" alt="Test user signed in" src="https://github.com/user-attachments/assets/5a03a829-6dcb-4b40-8483-a19000c9c519" /> |
+| *Admin resetting Test User's password* | *Test User signed in with the new password* |
+
+---
 
 ### 4. Disable the Account
 Directory → People → select user → More Actions → **Suspend**
