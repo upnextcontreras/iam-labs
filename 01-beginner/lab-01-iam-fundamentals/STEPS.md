@@ -60,7 +60,18 @@ Directory → People → select user → **Reset or Remove password**
 ### 4. Disable the Account
 Directory → People → select user → More Actions → **Suspend**
 
-![Okta - suspend user](screenshots/07-okta-suspend-user.png)
+### 4. Disable the Account
+Directory → People → select user → More Actions → **Suspend**
+
+| Admin View | Test User View |
+|:---:|:---:|
+| <img width="400" alt="Admin suspended user" src="https://github.com/user-attachments/assets/f4453b33-abf7-41ab-bc5c-fafe455a1792" /> | <img width="400" alt="Test user unable to sign in" src="https://github.com/user-attachments/assets/7ce91e7b-df31-4648-9638-5764b9ef89e0" /> |
+| *Admin suspends Test User* | *Test User can no longer sign in* |
+
+<p align="center">
+  <img width="500" alt="User suspended in People list" src="https://github.com/user-attachments/assets/ffb01cad-177a-4f8e-ac4c-317d0bf68885" />
+  <br><em>Test User now shows as Suspended in the directory</em>
+</p>
 
 ---
 
