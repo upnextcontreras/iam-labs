@@ -60,9 +60,6 @@ Directory → People → select user → **Reset or Remove password**
 ### 4. Disable the Account
 Directory → People → select user → More Actions → **Suspend**
 
-### 4. Disable the Account
-Directory → People → select user → More Actions → **Suspend**
-
 | Admin View | Test User View |
 |:---:|:---:|
 | <img width="400" alt="Admin suspended user" src="https://github.com/user-attachments/assets/f4453b33-abf7-41ab-bc5c-fafe455a1792" /> | <img width="400" alt="Test user unable to sign in" src="https://github.com/user-attachments/assets/7ce91e7b-df31-4648-9638-5764b9ef89e0" /> |
