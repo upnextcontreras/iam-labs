@@ -27,8 +27,8 @@ Hands-on Identity and Access Management labs in **Okta** and **Microsoft Entra I
 ### Intermediate
 | # | Lab | Platform | Status |
 |---|---|---|---|
-| 03 | [Application Onboarding](02-intermediate/lab-03-application-onboarding/) | Okta + Entra ID | Planned |
-| 04 | [SSO Setup with SAML and OpenID Connect](02-intermediate/lab-04-sso-setup-with-saml-and-openid-connect/) | Okta + Entra ID | Planned |
+| 03 | [Application Onboarding](02-intermediate/lab-03-application-onboarding/) | Okta + Entra ID | Complete |
+| 04 | [SSO Setup with SAML and OpenID Connect](02-intermediate/lab-04-sso-setup-with-saml-and-openid-connect/) | Okta + Entra ID | In Progress |
 | 05 | [MFA Configuration in Okta](02-intermediate/lab-05-mfa-configuration-in-okta/) | Okta | Planned |
 
 ### Advanced
