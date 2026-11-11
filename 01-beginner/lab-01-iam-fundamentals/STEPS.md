@@ -77,24 +77,82 @@ Directory → People → select user → More Actions → **Suspend**
 ### 1. Create a User
 Entra ID → Users → **New user** → **Create new user** → fill in Basics and Properties → **Review + create**
 
-![Entra ID - create user](screenshots/02-entra-create-user.png)
+| Basics | Properties |
+|:---:|:---:|
+| <img width="400" alt="Creating user in Entra - basics" src="https://github.com/user-attachments/assets/f6525b06-2c5d-4741-af52-a3ad825ff780" /> | <img width="400" alt="Creating user in Entra - properties" src="https://github.com/user-attachments/assets/51775be0-0c78-46cc-948f-816cdeb070ca" /> |
+| *Filling in the user's basic info* | *Adding job title and department* |
+
+<p align="center">
+  <img width="400" alt="Review and create user" src="https://github.com/user-attachments/assets/e59bd46f-119f-49aa-9984-47019b50cfd2" />
+  <br><em>Reviewing the user before creating</em>
+</p>
+
+<p align="center">
+  <img width="600" alt="User created in Entra ID" src="https://github.com/user-attachments/assets/107d788e-9b2e-4dce-9986-ef2bb1a6538a" />
+  <br><em>Test User created in Entra ID</em>
+</p>
+
+---
 
 ### 2. Create a Group and Assign the User
 Entra ID → Groups → **New group** → Security, `Engineering-Team`, Assigned → add member → **Create**
 
-![Entra ID - group](screenshots/04-entra-group.png)
+<p align="center">
+  <img width="400" alt="Creating group in Entra ID" src="https://github.com/user-attachments/assets/fabc5c35-5e8b-48a5-9b09-a2bf98358c8e" />
+  <br><em>Creating the Engineering-Team security group</em>
+</p>
+
+<p align="center">
+  <img width="600" alt="Group created in Entra ID" src="https://github.com/user-attachments/assets/876dada2-c75b-44d3-aa41-5a3e53a37a36" />
+  <br><em>Engineering-Team group created</em>
+</p>
+
+<p align="center">
+  <img width="600" alt="Adding user to group" src="https://github.com/user-attachments/assets/0c83a234-a04b-422c-9874-d30cfe12c1aa" />
+  <br><em>Adding Test User to the group</em>
+</p>
+
+<p align="center">
+  <img width="500" alt="User assigned to group" src="https://github.com/user-attachments/assets/cc60a9a4-0519-4e26-bbe5-d79556d72b62" />
+  <br><em>Test User is now a member of Engineering-Team</em>
+</p>
+
+---
 
 ### 3. Reset a Password
 Users → select user → **Reset password** → **Reset**
 
-![Entra ID - password reset](screenshots/06-entra-password-reset.png)
+<p align="center">
+  <img width="600" alt="Admin resetting password" src="https://github.com/user-attachments/assets/162d3e4f-5430-41dc-957d-9cbe7cb4a843" />
+  <br><em>Admin resetting Test User's password</em>
+</p>
+
+<p align="center">
+  <img width="600" alt="Temporary password generated" src="https://github.com/user-attachments/assets/34a05c81-4fdb-4e74-aa10-f574f39b49d6" />
+  <br><em>Temporary password generated</em>
+</p>
+
+<p align="center">
+  <img width="400" alt="Test user signed in" src="https://github.com/user-attachments/assets/44fc9531-cd7c-44b5-8cae-1a4d3365e201" />
+  <br><em>Test User signed in with the new password</em>
+</p>
+
+---
 
 ### 4. Disable the Account
 Users → select user → **Edit properties** → Block sign in: **Yes** → **Save**
 
-![Entra ID - block sign-in](screenshots/08-entra-block-sign-in.png)
+| Admin View | Test User View |
+|:---:|:---:|
+| <img width="400" alt="Admin blocks sign-in" src="https://github.com/user-attachments/assets/0079a592-dc17-4cdd-8427-340b58e08950" /> | <img width="400" alt="Test user unable to sign in" src="https://github.com/user-attachments/assets/062b014b-1e08-40ba-ba03-dc60100876f1" /> |
+| *Admin blocks sign-in for Test User* | *Test User can no longer sign in* |
+
+---
 
 ### 5. Validate with Sign-in Logs
-Monitoring → **Sign-in logs** → Add filter → User → confirm the blocked sign-in
+Monitoring → **Sign-in logs** → Add filter → User → Test User
 
-![Entra ID - sign-in logs](screenshots/09-entra-sign-in-logs.png)
+<p align="center">
+  <img width="700" alt="Entra ID sign-in logs" src="https://github.com/user-attachments/assets/05220b9f-a3ee-475b-a5ad-a67b63e4d698" />
+  <br><em>Sign-in logs confirming the blocked sign-in attempt</em>
+</p>
