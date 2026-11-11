@@ -22,7 +22,7 @@ Hands-on Identity and Access Management labs in **Okta** and **Microsoft Entra I
 | # | Lab | Platform | Status |
 |---|---|---|---|
 | 01 | [IAM Fundamentals](01-beginner/lab-01-iam-fundamentals/) | Okta + Entra ID | Complete |
-| 02 | [User Lifecycle Management](01-beginner/lab-02-user-lifecycle-management/) | Entra ID | Planned |
+| 02 | [User Lifecycle Management](01-beginner/lab-02-user-lifecycle-management/) | Entra ID | In Progress |
 
 ### Intermediate
 | # | Lab | Platform | Status |
